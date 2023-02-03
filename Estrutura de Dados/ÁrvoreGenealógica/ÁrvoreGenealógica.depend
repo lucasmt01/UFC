@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1669903665 source:c:\users\lucas farias\documents\c files\Árvoregenealógica\tad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad.h"
+
+1669903665 c:\users\lucas farias\documents\c files\Árvoregenealógica\tad.h
+
+1669941460 source:c:\users\lucas farias\documents\c files\Árvoregenealógica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1669941460 source:c:\users\lucas mota\desktop\Árvoregenealógica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1669903665 c:\users\lucas mota\desktop\Árvoregenealógica\tad.h
+
+1669903665 source:c:\users\lucas mota\desktop\Árvoregenealógica\tad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad.h"
+
+1675462760 source:c:\users\lucas mota\documents\códigos\Árvoregenealógica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1669903665 c:\users\lucas mota\documents\códigos\Árvoregenealógica\tad.h
+
+1669903665 source:c:\users\lucas mota\documents\códigos\Árvoregenealógica\tad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad.h"
+

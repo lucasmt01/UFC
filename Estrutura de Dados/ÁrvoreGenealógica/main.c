@@ -4,9 +4,9 @@
 
 int main()
 {
-    /*  criando uma árvore genealógica que parte de um indiv�duo,
-    e são listados sua mãe, vó, bisavó, tataravó e etc.
-    E seu pai, vô, bisavô, tataravô e etc.*/
+    /* � criado uma �rvore geneal�gica que parte de um indiv�duo,
+    e s�o listados sua m�e, v�, bisav�, tatarav� e etc.
+    E seu pai, v�, bisav�, tatarav� e etc.*/
 
     Arvg *pessoa = NULL;
 
