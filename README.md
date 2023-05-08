@@ -1,2 +1,2 @@
 # Coisas-da-Ufc
-Algumas coisas da ufc que considerei importante de registrar, coisas como provas, códigos, aulas e afins.
+Registrei algumas informações relevantes da Universidade Federal do Ceará, tais como provas, códigos, aulas e outros conteúdos pertinentes.
