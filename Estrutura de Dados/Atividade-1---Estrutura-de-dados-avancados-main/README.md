@@ -1,13 +1,3 @@
-# Atividade 1 - Estrutura de Dados Avançado
-*Equipe :*
-
-1- Francisco Lucas Farias da Silva - 538691
-
-2- Lucas Eduardo Mota - 535488
-
-3- Maria Clara Pereira de Sousa - 536940
-
-
 # Apresentação
 Uma Loja Virtual deseja implantar um sistema de gerenciamento das compras pagas por seus
 clientes (usuários), através do uso de cartões de crédito. Desta forma, o sistema deverá ser
@@ -52,9 +42,6 @@ menos um cartão de crédito.
 
 • Listar os dados de um usuário, de uma compra ou de um cartão.
 
-# Representação visual da tabela de dispersão dos usuários e tabela de dispersão dos cartões de crédito juntamente com a árvore de compras
-![WhatsApp Image 2023-05-10 at 2 47 57 PM](https://github.com/FILElucas99/Atividade-1---Estrutura-de-dados-avancados/assets/109489204/782517b3-653f-45a9-836b-e25c5d575883)
-![WhatsApp Image 2023-05-10 at 2 47 58 PM](https://github.com/FILElucas99/Atividade-1---Estrutura-de-dados-avancados/assets/109489204/f2a10f9e-e345-4c6c-b75d-d2c71425bc40)
 
 Os usuários e os cartões de créditos são representados por diferentes estruturas do tipo tabela
 hash. Os usuários guardam em si, para além do seus dados, o número dos cartões de créditos
